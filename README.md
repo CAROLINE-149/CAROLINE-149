@@ -1,4 +1,4 @@
-**# 💫 About Me:**
+# 💫 About Me:
 Hi, I'm Caroline Onyango<br>**<br>Aspiring Software Engineer | Web Developer<br>**<br>I'm a Computer Science student at Chuka University, Kenya, passionate about building practical solutions through technology. I'm on a journey to become a skilled software engineer, learning by building projects, solving problems, and continuously exploring new technologies.<br><br>
 
 

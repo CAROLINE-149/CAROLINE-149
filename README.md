@@ -12,14 +12,9 @@ Hi, I'm Caroline Onyango <br><br>Aspiring Software Engineer | Web Developer<br><
 ![](https://streak-stats.demolab.com/?user=CAROLINE-149&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CAROLINE-149&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CAROLINE-149&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CAROLINE-149&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=CAROLINE-149&icon=0&color=10)](https://visitcount.itsvg.in)
